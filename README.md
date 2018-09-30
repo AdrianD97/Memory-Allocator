@@ -5,6 +5,7 @@
   
   
   Commands format : 
+  
   		1. INITIALIZE <N> 
 			The command initializes the arena(assigns an N bytes area).
 
