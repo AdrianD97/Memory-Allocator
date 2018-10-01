@@ -1,7 +1,0 @@
-# .gitattributes file
-
-*text=auto
-
-*.gitattributes text
-.gitignore text
-*.md text
