@@ -1,0 +1,5 @@
+# .gitattributes file
+
+# Source files
+
+*.py	text
