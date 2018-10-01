@@ -1,6 +1,8 @@
       # Memory-Allocator
   The program makes a simulation of a memory allocation system.
+  
   The program receive commands for allocating, altering, displaying, and releasing memory, and output the results of each command.
+  
   The program implements a number of working operations with arena (arena = a succession of N bytes), which will be launched by the commands it receives at the entrance. Each command is given on one line, and the results are displayed immediately.
   
   
