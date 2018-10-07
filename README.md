@@ -38,3 +38,9 @@
 
 	There is a folder (_tests) that contains basic, random and advanced tests.
 	Testing is done automatically by running the check.sh script. Random tests will be generated every time when the check.sh script is run.
+
+	In this project, the files that belong me are :
+				- allocator.c
+				- Makefile
+				- README.md
+				- .gitattributes
