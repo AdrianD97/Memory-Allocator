@@ -36,8 +36,8 @@
 				- ALLOCATIONS
 					Free zones and allocated areas are displayed.
 
-	There is a folder (_tests) that contains basic, random and advanced tests.
-	Testing is done automatically by running the check.sh script. Random tests will be generated every time when the check.sh script is run.
+	Program testing is done automatically by running the check.sh script.
+	There is a folder (_tests) that contains basic, random and advanced tests. Random tests will be generated every time when the check.sh script is run. The check.sh script compares the result of each test with the corresponding reference file from _tests folder. For each test, the commands are read from corresponding input file from same folder.
 	The goal of the cs.py script is to identify places in the code that may be in non-compliance with google style.
 	The generator.py file is used to generate multiple random memory allocation requests.
 	
