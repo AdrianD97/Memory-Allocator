@@ -1,4 +1,5 @@
-      # Memory-Allocator
+      # Memory-Allocator, university project
+      
   The program makes a simulation of a memory allocation system.
   
   The program receive commands for allocating, altering, displaying, and releasing memory, and output the results of each command.
